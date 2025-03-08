@@ -1,0 +1,24 @@
+{
+  "name": "fake-data",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/maxahn/fake-data#readme",
+  "bugs": {
+    "url": "https://github.com/maxahn/fake-data/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxahn/fake-data.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
