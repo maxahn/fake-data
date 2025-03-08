@@ -1,0 +1,467 @@
+{
+  "vehicles": [
+    {
+      "id": "20",
+      "name": "Freightliner",
+      "type": "Crew Van",
+      "insurance_due_date": "2025-03-29T00:00:00.000Z",
+      "mvi_due_date": "2025-12-31T00:00:00.000Z",
+      "is_active": true,
+      "oil_change_km_interval": 1432
+    },
+    {
+      "id": "7",
+      "name": "Workhorse",
+      "type": "Crew Van",
+      "insurance_due_date": "2025-03-29T00:00:00.000Z",
+      "mvi_due_date": "2025-12-31T00:00:00.000Z",
+      "is_active": true,
+      "oil_change_km_interval": 1687
+    },
+    {
+      "id": "21",
+      "name": "A Ford F-450",
+      "type": "Crew Van",
+      "insurance_due_date": "2025-03-29T00:00:00.000Z",
+      "mvi_due_date": "2025-12-31T00:00:00.000Z",
+      "is_active": true,
+      "oil_change_km_interval": 1924
+    },
+    {
+      "id": "12",
+      "name": "Western Star Western StaWestern Sta Western StaWestern StaWestern Sta",
+      "type": "Dump Truck",
+      "insurance_due_date": "2025-03-29T00:00:00.000Z",
+      "mvi_due_date": "2025-12-31T00:00:00.000Z",
+      "is_active": true,
+      "oil_change_km_interval": 2345
+    },
+    {
+      "id": "17",
+      "name": "T Kenworth",
+      "type": "Dump Truck",
+      "insurance_due_date": "2024-08-29T00:00:00.000Z",
+      "mvi_due_date": "2025-12-31T00:00:00.000Z",
+      "is_active": true,
+      "oil_change_km_interval": 1500
+    },
+    {
+      "id": "19",
+      "name": "M Kenworth",
+      "type": "Dump Truck",
+      "insurance_due_date": "2024-08-29T00:00:00.000Z",
+      "mvi_due_date": "2025-12-31T00:00:00.000Z",
+      "is_active": true,
+      "oil_change_km_interval": 2140
+    },
+    {
+      "id": "18",
+      "name": "Kenworth",
+      "type": "Dump Truck",
+      "insurance_due_date": "2024-08-29T00:00:00.000Z",
+      "mvi_due_date": "2025-12-31T00:00:00.000Z",
+      "is_active": true,
+      "oil_change_km_interval": 1805
+    },
+    {
+      "id": "163d",
+      "name": "#16 Kenworth",
+      "type": "Dump Truck",
+      "insurance_due_date": "2024-08-29T00:00:00.000Z",
+      "mvi_due_date": "2025-12-31T00:00:00.000Z",
+      "is_active": true,
+      "oil_change_km_interval": 1702
+    },
+    {
+      "id": "15",
+      "name": "#15 Kenworth",
+      "type": "Dump Truck",
+      "insurance_due_date": "2024-08-29T00:00:00.000Z",
+      "mvi_due_date": "2025-12-31T00:00:00.000Z",
+      "is_active": true,
+      "oil_change_km_interval": 2003
+    },
+    {
+      "id": "14",
+      "name": "#14 Kenworth",
+      "type": "Dump Truck",
+      "insurance_due_date": "2024-08-29T00:00:00.000Z",
+      "mvi_due_date": "2025-12-31T00:00:00.000Z",
+      "is_active": true,
+      "oil_change_km_interval": 2400
+    },
+    {
+      "id": "13",
+      "name": "#13 Kenworth",
+      "type": "Dump Truck",
+      "insurance_due_date": "2024-08-29T00:00:00.000Z",
+      "mvi_due_date": "2025-12-31T00:00:00.000Z",
+      "is_active": true,
+      "oil_change_km_interval": 1765
+    },
+    {
+      "id": "11",
+      "name": "#11 Kenworth",
+      "type": "Dump Truck",
+      "insurance_due_date": "2024-08-29T00:00:00.000Z",
+      "mvi_due_date": "2025-12-31T00:00:00.000Z",
+      "is_active": true,
+      "oil_change_km_interval": 2200
+    },
+    {
+      "id": "1343",
+      "name": "#15 GMC 1500",
+      "type": "Flag Truck",
+      "insurance_due_date": "2024-08-29T00:00:00.000Z",
+      "mvi_due_date": "2025-12-29T00:00:00.000Z",
+      "is_active": true,
+      "oil_change_km_interval": 1980
+    },
+    {
+      "id": "16",
+      "name": "2018 Kenworth Cusco",
+      "type": "Hydro Vacs",
+      "insurance_due_date": "2024-08-29T00:00:00.000Z",
+      "mvi_due_date": "2025-12-29T00:00:00.000Z",
+      "is_active": true,
+      "oil_change_km_interval": 2105
+    }
+  ],
+  "equipments": [
+    {
+      "id": "1",
+      "name": "1000 Plate",
+      "type": "Plate",
+      "is_active": true
+    },
+    {
+      "id": "2",
+      "name": "200 Plate",
+      "type": "Plate",
+      "is_active": true
+    },
+    {
+      "id": "3",
+      "name": "500 Plate",
+      "type": "Plate",
+      "is_active": false
+    },
+    {
+      "id": "4",
+      "name": "600 Plate",
+      "type": "Plate",
+      "is_active": true
+    },
+    {
+      "id": "5",
+      "name": "700 Plate",
+      "type": "Plate",
+      "is_active": true
+    },
+    {
+      "id": "6",
+      "name": "800 Plate",
+      "type": "Plate",
+      "is_active": true
+    },
+    {
+      "id": "7",
+      "name": "900 Plate",
+      "type": "Plate",
+      "is_active": true
+    },
+    {
+      "id": "8",
+      "name": "Cam Am Quad Snow Plough",
+      "type": "Plough",
+      "is_active": true
+    },
+    {
+      "id": "9",
+      "name": "Husqvarna Pavement Saw Cutter",
+      "type": "Cutter",
+      "is_active": true
+    },
+    {
+      "id": "10",
+      "name": "Large cage lorem ipsem dolor sit amet consectetur Large cage lorem ipsem dolor sit amet consectetur",
+      "type": "Cage",
+      "is_active": true
+    },
+    {
+      "id": "11",
+      "name": "Pipe Camera Large cage lorem ipsem dolor sit amet consectetur",
+      "type": "Camera",
+      "is_active": true
+    }
+  ],
+  "machinery": [
+    {
+      "id": "1",
+      "name": "Cat 216",
+      "type": "Excavator",
+      "is_active": true
+    },
+    {
+      "id": "2",
+      "name": "Vat 226",
+      "type": "Excavator",
+      "is_active": true
+    },
+    {
+      "id": "3",
+      "name": "Nat 305 A",
+      "type": "Excavator",
+      "is_active": false
+    },
+    {
+      "id": "4",
+      "name": "Cat 305 B Large cage lorem ipsem dolor sit amet consectetur",
+      "type": "Excavator",
+      "is_active": true
+    },
+    {
+      "id": "5",
+      "name": "Large cage lorem ipsem dolor sit amet consectetur Cat 305 B Large cage lorem ipsem dolor sit amet consectetur",
+      "type": "Excavator",
+      "is_active": true
+    },
+    {
+      "id": "6",
+      "name": "Xarge cage lorem ipsem dolor sit amet consectetur Cat 305 B Large cage lorem ipsem dolor sit amet consectetur",
+      "type": "Excavator",
+      "is_active": true
+    }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "name": "Frank Fiegel",
+      "is_active": true
+    },
+    {
+      "id": "2",
+      "name": "John Doe",
+      "is_active": true
+    },
+    {
+      "id": "3",
+      "name": "Jane Doe",
+      "is_active": true
+    }
+  ],
+  "machinery_logs": [],
+  "vehicle_logs": [
+    {
+      "id": "log_001",
+      "timestamp": "2025-03-05T08:00:00.000Z",
+      "employee_id": "1",
+      "vehicle_id": "20",
+      "log_type": "start",
+      "logged_timestamp": "2025-03-05T08:00:00.000Z",
+      "logged_km": 12000,
+      "maintenance_notes": ""
+    },
+    {
+      "id": "log_002",
+      "timestamp": "2025-03-05T12:30:00.000Z",
+      "employee_id": "2",
+      "vehicle_id": "20",
+      "log_type": "finish",
+      "logged_timestamp": "2025-03-05T12:30:00.000Z",
+      "logged_km": 12500,
+      "maintenance_notes": ""
+    },
+    {
+      "id": "log_003",
+      "timestamp": "2025-03-06T09:00:00.000Z",
+      "employee_id": "3",
+      "vehicle_id": "20",
+      "log_type": "maintenance",
+      "logged_timestamp": "2025-03-06T09:00:00.000Z",
+      "oiled_timestamp": "2025-03-06T09:30:00.000Z",
+      "oiled_km": 13000,
+      "logged_km": 12980,
+      "maintenance_notes": "Oil changed, tire pressure checked."
+    },
+    {
+      "id": "log_004",
+      "timestamp": "2025-03-07T07:45:00.000Z",
+      "employee_id": "1",
+      "vehicle_id": "7",
+      "log_type": "start",
+      "logged_timestamp": "2025-03-07T07:45:00.000Z",
+      "logged_km": 15000,
+      "maintenance_notes": ""
+    },
+    {
+      "id": "log_005",
+      "timestamp": "2025-03-07T14:10:00.000Z",
+      "employee_id": "2",
+      "vehicle_id": "7",
+      "log_type": "finish",
+      "logged_timestamp": "2025-03-07T14:10:00.000Z",
+      "logged_km": 15530,
+      "maintenance_notes": ""
+    },
+    {
+      "id": "log_006",
+      "timestamp": "2025-03-08T10:20:00.000Z",
+      "employee_id": "3",
+      "vehicle_id": "7",
+      "log_type": "maintenance",
+      "logged_timestamp": "2025-03-08T10:20:00.000Z",
+      "oiled_timestamp": "2025-03-08T10:45:00.000Z",
+      "oiled_km": 15700,
+      "logged_km": 15680,
+      "maintenance_notes": "Brake fluid replaced, battery checked."
+    },
+    {
+      "id": "log_007",
+      "timestamp": "2025-03-09T09:15:00.000Z",
+      "employee_id": "1",
+      "vehicle_id": "21",
+      "log_type": "start",
+      "logged_timestamp": "2025-03-09T09:15:00.000Z",
+      "logged_km": 18000,
+      "maintenance_notes": ""
+    },
+    {
+      "id": "log_008",
+      "timestamp": "2025-03-09T16:30:00.000Z",
+      "employee_id": "2",
+      "vehicle_id": "21",
+      "log_type": "finish",
+      "logged_timestamp": "2025-03-09T16:30:00.000Z",
+      "logged_km": 18550,
+      "maintenance_notes": ""
+    },
+    {
+      "id": "log_009",
+      "timestamp": "2025-03-10T11:00:00.000Z",
+      "employee_id": "3",
+      "vehicle_id": "21",
+      "log_type": "maintenance",
+      "logged_timestamp": "2025-03-10T11:00:00.000Z",
+      "oiled_timestamp": "2025-03-10T11:30:00.000Z",
+      "oiled_km": 18700,
+      "logged_km": 18690,
+      "maintenance_notes": "Replaced air filters, checked transmission."
+    },
+    {
+      "id": "log_010",
+      "timestamp": "2025-03-11T07:50:00.000Z",
+      "employee_id": "1",
+      "vehicle_id": "12",
+      "log_type": "start",
+      "logged_timestamp": "2025-03-11T07:50:00.000Z",
+      "logged_km": 20000,
+      "maintenance_notes": ""
+    },
+    {
+      "id": "log_011",
+      "timestamp": "2025-03-11T13:45:00.000Z",
+      "employee_id": "2",
+      "vehicle_id": "12",
+      "log_type": "finish",
+      "logged_timestamp": "2025-03-11T13:45:00.000Z",
+      "logged_km": 20600,
+      "maintenance_notes": ""
+    },
+    {
+      "id": "log_012",
+      "timestamp": "2025-03-12T09:30:00.000Z",
+      "employee_id": "3",
+      "vehicle_id": "12",
+      "log_type": "maintenance",
+      "logged_timestamp": "2025-03-12T09:30:00.000Z",
+      "oiled_timestamp": "2025-03-12T10:00:00.000Z",
+      "oiled_km": 20800,
+      "logged_km": 20790,
+      "maintenance_notes": "Rotated tires, replaced coolant."
+    },
+    {
+      "id": "log_013",
+      "timestamp": "2025-03-13T08:30:00.000Z",
+      "employee_id": "1",
+      "vehicle_id": "17",
+      "log_type": "start",
+      "logged_timestamp": "2025-03-13T08:30:00.000Z",
+      "logged_km": 22000,
+      "maintenance_notes": ""
+    },
+    {
+      "id": "log_014",
+      "timestamp": "2025-03-13T17:20:00.000Z",
+      "employee_id": "2",
+      "vehicle_id": "17",
+      "log_type": "finish",
+      "logged_timestamp": "2025-03-13T17:20:00.000Z",
+      "logged_km": 22500,
+      "maintenance_notes": ""
+    },
+    {
+      "id": "log_015",
+      "timestamp": "2025-03-14T10:15:00.000Z",
+      "employee_id": "3",
+      "vehicle_id": "17",
+      "log_type": "maintenance",
+      "logged_timestamp": "2025-03-14T10:15:00.000Z",
+      "oiled_timestamp": "2025-03-14T10:45:00.000Z",
+      "oiled_km": 22700,
+      "logged_km": 22680,
+      "maintenance_notes": "Suspension checked, new battery installed."
+    },
+    {
+      "id": "1a97",
+      "logged_timestamp": "2025-03-08T01:39:04.507Z",
+      "logged_km": 22680,
+      "employee_id": "3",
+      "maintenance_notes": "Did",
+      "vehicle_id": "17",
+      "log_type": "start",
+      "timestamp": "2025-03-08T01:39:07.935Z"
+    },
+    {
+      "id": "e6a6",
+      "logged_timestamp": "2025-03-08T01:39:04.507Z",
+      "logged_km": 22680,
+      "employee_id": "3",
+      "maintenance_notes": "Did",
+      "vehicle_id": "17",
+      "log_type": "start",
+      "timestamp": "2025-03-08T01:39:16.515Z"
+    },
+    {
+      "id": "6da8",
+      "logged_timestamp": "2025-03-08T01:39:04.507Z",
+      "logged_km": 22680,
+      "employee_id": "3",
+      "maintenance_notes": "Did",
+      "vehicle_id": "17",
+      "log_type": "start",
+      "timestamp": "2025-03-08T01:39:18.352Z"
+    },
+    {
+      "id": "a3a8",
+      "logged_timestamp": "2025-03-08T01:39:04.507Z",
+      "logged_km": 22680,
+      "employee_id": "3",
+      "maintenance_notes": "Did",
+      "vehicle_id": "17",
+      "log_type": "start",
+      "timestamp": "2025-03-08T01:40:20.766Z"
+    },
+    {
+      "id": "7e07",
+      "logged_timestamp": "2025-03-08T01:53:32.875Z",
+      "logged_km": 22680,
+      "employee_id": "3",
+      "maintenance_notes": "Daaaa",
+      "vehicle_id": "17",
+      "log_type": "start",
+      "timestamp": "2025-03-08T01:53:53.325Z"
+    }
+  ],
+  "equipment_logs": []
+}
